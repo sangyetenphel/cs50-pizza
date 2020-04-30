@@ -3,6 +3,8 @@
 Web Programming with Python and JavaScript
 This is a Django App for ordering pizza online for http://www.pinocchiospizza.net/menu.html Pinnochio's Pizza & Subs.
 
+App demonstration video: https://youtu.be/NWBRqYktIMs
+
 * models.py
 Contains all the database for all the menu of the restaurant
 
